@@ -15,3 +15,4 @@ jobs:
         run: |
           echo "Verificando estrutura e qualidade do código..."
           echo "Validação concluída com sucesso!"
+    
